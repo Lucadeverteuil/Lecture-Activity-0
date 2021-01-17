@@ -1,1 +1,0 @@
-# Lecture-Activity-0
