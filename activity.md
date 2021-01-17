@@ -17,5 +17,5 @@ The diffrence between git and hit hub is that git is control system itself while
 
 
 
-![My favorite food] (download.jfif)
+![My favorite food](download.jfif)
 Image of My favorite food
